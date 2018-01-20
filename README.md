@@ -10,9 +10,6 @@
    https://github.com/onplus/v2hero/issues
    发起issue前请尽量先使用文档和搜索
 
-* 相关项目
-   https://wsss.herokuapp.com/
-
 * 实现参考 
    - https://github.com/v2ray/v2ray-core
    - https://github.com/wangyi2005/v2ray
